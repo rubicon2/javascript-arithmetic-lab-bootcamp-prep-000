@@ -23,8 +23,7 @@ function decrement(n) {
 }
 
 function makeInt(n) {
-  return Math.parseInt(n);
-  return n.parseInt();
+  return parseInt(n);
 }
 
 function preserveDecimal(n) {
