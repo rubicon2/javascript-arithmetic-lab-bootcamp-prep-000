@@ -14,10 +14,15 @@ function divide(a, b) {
   
 }
 
-function increment(a){
+function increment(n){
   
 }
 
-function decrement(a) {
+function decrement(n) {
   
 }
+
+function makeInt(n) {
+  
+}
+
